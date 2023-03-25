@@ -1,0 +1,227 @@
+body{
+  background-color: #fff;
+  font-family: "Alfa Slab One", "Poppins";
+}
+
+#title{
+  background-color: #100F0F;
+  padding-bottom: 10%;
+}
+
+/* navigation bar */
+.navbar{
+  padding: 0 0 4.5rem;
+  padding-left: 1.5rem;
+  background-color: #100F0F;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding:8px 18px;
+}
+
+.nav-link{
+  font-size: 1.5rem;
+  font-family: 'Inter', sans-serif;
+  color:#dcdcdc;
+}
+
+/* title name */
+
+.title-name{
+  font-family: "Alfa Slab One", "Poppins";
+  color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+  letter-spacing: 2px;
+}
+.blue-color{
+  color: #3b82f6;
+  font-size: 35px;
+  font-family: "Alfa Slab One", "Poppins";
+  text-align: center;
+}
+.head{
+  font-size: 20px;
+  text-align: center;
+}
+.subtle{
+  font-size: 75px;
+  text-align: center;
+}
+span{
+  font-size: 20px;
+  text-align: center;
+}
+.about{
+    font-family: 'Inter', sans-serif;
+    color:#dcdcdc;
+    line-height: 2;
+    width:800px;
+    /* padding:7% 15%; */
+    font-size: 20px;
+    text-align: center;
+    /* position:absolute; */
+    /* left:220px; */
+}
+
+/* skills */
+#skills{
+  text-align: center;
+    padding: 7% 15%;
+}
+
+.shead{
+  color:#100F0F;
+  font-size: 35px;
+  font-family: "Alfa Slab One", "Poppins";
+  text-align: center;
+}
+
+.skill-box{
+  text-align: center;
+  padding:3%;
+}
+
+.skill-box:hover{
+  filter: drop-shadow(0 0 20px #3b82f6);
+  color:#3b82f6
+}
+
+h4{
+   font-family: 'Inter', sans-serif;
+   padding-top:5%;
+}
+
+.for{
+  width:35%;
+}
+
+.thr{
+  width:35%;
+}
+
+.thf{
+  width:35%;
+}
+
+/* coding profiles */
+
+#profiles{
+  text-align: center;
+  font-family: "Alfa Slab One", "Poppins";
+  background-color: #100F0F;
+  padding:7% 15%;
+
+}
+
+.chead{
+  color:#fff;
+  font-size: 35px;
+}
+
+.carousel-item{
+  height:500px;
+  padding:8% 16%;
+}
+
+h5{
+  color:#fff;
+}
+
+.code{
+  position: absolute;
+  width:65%;
+}
+
+.leet{
+  position: absolute;
+  width:60%;
+  /* left:85px; */
+}
+
+/* my projects */
+
+#projects{
+  text-align: center;
+  font-family: "Alfa Slab One", "Poppins";
+  padding:7% 15%;
+
+}
+
+.stud{
+  width: 120%;
+  height: 100%;
+  position: relative;
+  right:120px;
+}
+
+.pname{
+   font-family: 'Cardo', serif;
+   font-size: 33px;
+   color:#2C3333;
+   text-align: left;
+}
+
+.info {
+  position: relative;
+  left:90px;
+}
+
+.pinfo{
+  text-align: left;
+  /* padding: 1.5rem; */
+  font-family: "Inter",sans-serif;
+  line-height: 1.8;
+  width:130%;
+}
+
+.tech{
+  color: #3b82f6;
+  font-family: "Ubuntu";
+}
+.ptech{
+  text-align: left;
+}
+.git{
+  position: relative;
+  right:170px;
+}
+
+#contact{
+  /* text-align: center; */
+  /* font-family: "Alfa Slab One", "Poppins"; */
+  /* background-color: #100F0F; */
+  padding:4% 15%;
+
+}
+
+.loc{
+position: relative;
+left:80px;
+}
+
+.pos{
+  text-align: center;
+}
+
+/* footer */
+
+#footer{
+  text-align: center;
+  color:white;
+  background-color: #100F0F;
+  padding:7% 15%;
+}
+
+.si{
+  font-size: 30px;
+  padding-right: 25px;
+  color:white;
+}
+.si:hover{
+  color: #3b82f6;
+}
